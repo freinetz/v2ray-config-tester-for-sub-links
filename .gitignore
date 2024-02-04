@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+config/
+venv/
+geoip.dat
+geosite.dat
+LICENSE
+wxray.exe
+xray.exe
+xray
+logs/
+sub.txt
+db.sqlite

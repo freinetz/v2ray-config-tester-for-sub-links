@@ -1,0 +1,4 @@
+requests~=2.31.0
+peewee~=3.17.0
+PyGithub~=2.2.0
+pysocks~=1.7.1
